@@ -1,6 +1,6 @@
 studentgroups
 2nd-Year AM-CSC401 5 AOA-CSC402 4 COA-CSC403 4 CG-CSC404 4 OS-CSC405 4 
-teachers
+Faculty available
 KNC AM-CSC401
 ASK AOA-CSC402
 DNJ COA-CSC403
